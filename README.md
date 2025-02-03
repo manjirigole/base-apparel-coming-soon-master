@@ -29,11 +29,11 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:[ [Add solution URL here](https://your-solution-url.com)](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-master-dxrbg2M5kA)
-- Live Site URL: [[Add live site URL here](https://your-live-site-url.com)](https://manjirigole.github.io/base-apparel-coming-soon-master/)
+- Solution URL:[ (https://your-solution-url.com)](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-master-dxrbg2M5kA)
+- Live Site URL: (https://your-live-site-url.com)](https://manjirigole.github.io/base-apparel-coming-soon-master/)
 
 ## My process
 
 ## Author
 
-- Frontend Mentor - [ [@yourusername](https://www.frontendmentor.io/profile/yourusername)](https://www.frontendmentor.io/profile/manjirigole)
+- Frontend Mentor - [ (https://www.frontendmentor.io/profile/yourusername)](https://www.frontendmentor.io/profile/manjirigole)
