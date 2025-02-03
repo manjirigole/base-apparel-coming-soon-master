@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:[ (https://your-solution-url.com)](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-master-dxrbg2M5kA)
+- Solution URL:[[ (https://your-solution-url.com)](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-master-dxrbg2M5kA)](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-master-dxrbg2M5kA)
 - Live Site URL: (https://your-live-site-url.com)](https://manjirigole.github.io/base-apparel-coming-soon-master/)
 
 ## My process
