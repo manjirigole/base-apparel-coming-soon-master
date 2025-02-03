@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Josefin Sans", sans-serif;
+}
+.container {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+}
+.item1 {
+  background: url("./images/bg-pattern-desktop.svg") no-repeat center center;
+  background-size: cover;
+}
+.logo {
+  padding: 70px 0 0px 30%;
+}
+.heading {
+  color: hsl(0, 6%, 24%);
+  padding: 90px 0 10px 30%;
+  letter-spacing: 10px;
+  font-size: 60px;
+  font-weight: 500;
+  margin: 0;
+}
+.heading span {
+  color: hsl(0, 36%, 70%);
+  font-weight: 300;
+}
+.item2 {
+  margin: 0;
+  padding: 0;
+  background-color: beige;
+  background: url("./images/hero-desktop.jpg") no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+.desc {
+  color: hsl(0, 36%, 70%);
+  width: 450px;
+  padding: 0px 0 20px 30%;
+  line-height: 25px;
+}
+.email-container {
+  padding-left: 30%;
+  position: relative;
+  width: 350px;
+}
+.email {
+  height: 40px;
+  width: 100%;
+  border-radius: 20px;
+  border: 1px solid hsl(0, 36%, 70%);
+  padding-right: 30%;
+}
+.email::placeholder {
+  padding-left: 30px;
+  color: hsl(0, 36%, 70%);
+  font-family: "Josefin sans", sans-serif;
+  font-size: 14px;
+  opacity: 0.8;
+}
+.icon-arrow {
+  background: linear-gradient(135deg, hsl(0, 80%, 86%), hsl(0, 74%, 74%));
+  border: none;
+  width: 80px;
+  height: 43px;
+  border-radius: 20px;
+  position: absolute;
+  top: 0;
+  left: 678px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon-arrow:hover {
+  cursor: pointer;
+}
+.warning {
+  display: none;
+  color: hsl(0, 74%, 74%);
+  font-weight: 600;
+  font-size: 12px;
+  padding-left: 30px;
+}
+#icon-error {
+  display: none;
+  float: right;
+  position: relative;
+  bottom: 48px;
+  left: 20px;
+}
